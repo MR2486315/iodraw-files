@@ -49,7 +49,7 @@
           <mxGeometry x="320" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-13" value="健康科普" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="230" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-16" value="健康咨询" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="220" width="90" height="30" as="geometry" />
