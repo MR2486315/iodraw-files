@@ -20,18 +20,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjupS6Y3R0U-6fo5p6Z2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-1" target="UjupS6Y3R0U-6fo5p6Z2-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="380" y="180" />
-              <mxPoint x="470" y="180" />
-              <mxPoint x="470" y="270" />
-              <mxPoint x="460" y="270" />
-              <mxPoint x="460" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-1" target="UjupS6Y3R0U-6fo5p6Z2-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -81,7 +69,7 @@
           <mxGeometry x="10" y="350" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-29" value="健康科普" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="290" width="80" height="30" as="geometry" />
+          <mxGeometry x="400" y="225" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
