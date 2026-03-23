@@ -33,7 +33,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="180" />
-              <mxPoint x="720" y="180" />
+              <mxPoint x="750" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -44,10 +44,10 @@
           <mxGeometry x="320" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-13" value="健康管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-16" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-18" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="230" width="120" height="60" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="690" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-24" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
