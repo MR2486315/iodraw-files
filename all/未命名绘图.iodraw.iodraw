@@ -78,8 +78,16 @@
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-26" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="350" width="40" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UjupS6Y3R0U-6fo5p6Z2-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-29" target="UjupS6Y3R0U-6fo5p6Z2-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="240" />
+              <mxPoint x="385" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-29" value="健康科普" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="270" width="80" height="30" as="geometry" />
+          <mxGeometry x="400" y="350" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
