@@ -82,7 +82,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-16" target="EW2c715vl7r0Vyo-Yu_o-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="238" />
+              <mxPoint x="180" y="420" />
+              <mxPoint x="310" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-16" value="健康咨询" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="220" width="80" height="35" as="geometry" />
@@ -121,7 +127,7 @@
           <mxGeometry x="340" y="490" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-23" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="322.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
