@@ -139,7 +139,7 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="EW2c715vl7r0Vyo-Yu_o-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EW2c715vl7r0Vyo-Yu_o-29" target="EW2c715vl7r0Vyo-Yu_o-41">
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EW2c715vl7r0Vyo-Yu_o-31" target="EW2c715vl7r0Vyo-Yu_o-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="UjupS6Y3R0U-6fo5p6Z2-16">
@@ -186,8 +186,10 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-27" value="血脂" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="360" width="45" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-31" value="BMI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="435" width="40" height="20" as="geometry" />
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EW2c715vl7r0Vyo-Yu_o-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-33" value="体温" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="600" width="40" height="20" as="geometry" />
@@ -212,6 +214,15 @@
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-29" value="心率" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EW2c715vl7r0Vyo-Yu_o-29" target="EW2c715vl7r0Vyo-Yu_o-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="420" as="sourcePoint" />
+            <mxPoint x="75" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-31" value="BMI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="435" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
