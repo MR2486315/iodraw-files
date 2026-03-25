@@ -111,8 +111,11 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-6" value="药品功能查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EW2c715vl7r0Vyo-Yu_o-15" target="EW2c715vl7r0Vyo-Yu_o-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-15" value="&#xa;&lt;b&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;&#xa;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&#xa;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&#xa;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;饮食运动建议&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="410" width="80" height="35" as="geometry" />
+          <mxGeometry x="430" y="430" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="480" width="80" height="35" as="geometry" />
