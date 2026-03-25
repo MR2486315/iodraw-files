@@ -108,6 +108,9 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="EW2c715vl7r0Vyo-Yu_o-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="EW2c715vl7r0Vyo-Yu_o-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-24" value="健康指标" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="220" width="80" height="35" as="geometry" />
         </mxCell>
@@ -140,6 +143,9 @@
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-27" value="血脂" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="490" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-29" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
