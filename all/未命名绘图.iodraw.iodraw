@@ -101,8 +101,8 @@
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-24" value="健康指标" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="220" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="UjupS6Y3R0U-6fo5p6Z2-26" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="290" width="40" height="30" as="geometry" />
+        <mxCell id="UjupS6Y3R0U-6fo5p6Z2-26" value="血糖" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="290" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-31" value="健康档案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="225" width="80" height="35" as="geometry" />
