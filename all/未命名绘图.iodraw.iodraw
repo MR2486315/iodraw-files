@@ -115,7 +115,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="30" y="238" />
-              <mxPoint x="30" y="370" />
+              <mxPoint x="30" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -226,12 +226,12 @@
             <mxPoint x="75" y="770" as="targetPoint" />
             <Array as="points">
               <mxPoint x="30" y="238" />
-              <mxPoint x="30" y="410" />
+              <mxPoint x="30" y="385" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-29" value="心率" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="400" width="40" height="20" as="geometry" />
+          <mxGeometry x="80" y="375" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-31" value="BMI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="435" width="40" height="20" as="geometry" />
