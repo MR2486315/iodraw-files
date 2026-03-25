@@ -50,16 +50,6 @@
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-13" value="健康科普" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="225" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="560" y="360" />
-              <mxPoint x="560" y="413" />
-            </Array>
-            <mxPoint x="630" y="655" as="sourcePoint" />
-            <mxPoint x="760" y="555" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-16" target="EW2c715vl7r0Vyo-Yu_o-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -222,17 +212,8 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-35" value="睡眠" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="470" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T6ZIG7grHf2FUHdrPqu_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-16" target="EW2c715vl7r0Vyo-Yu_o-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="180" y="238" />
-            </Array>
-            <mxPoint x="210" y="235" as="sourcePoint" />
-            <mxPoint x="250" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-23" value="医疗医保政策" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="530" width="80" height="35" as="geometry" />
+          <mxGeometry x="210" y="280" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
