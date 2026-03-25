@@ -133,7 +133,7 @@
           <mxGeometry x="40" y="220" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-26" value="血糖" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="340" width="40" height="30" as="geometry" />
+          <mxGeometry x="95" y="295" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-31" value="健康档案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="225" width="80" height="35" as="geometry" />
@@ -181,7 +181,7 @@
           <mxGeometry x="55" y="730" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-41" value="喝水" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="770" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
