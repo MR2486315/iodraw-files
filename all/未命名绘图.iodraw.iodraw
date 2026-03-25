@@ -139,7 +139,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="30" y="238" />
-              <mxPoint x="30" y="550" />
+              <mxPoint x="30" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -147,7 +147,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="30" y="238" />
-              <mxPoint x="30" y="580" />
+              <mxPoint x="30" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -204,13 +204,13 @@
           <mxGeometry x="80" y="340" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-37" value="运动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="540" width="40" height="20" as="geometry" />
+          <mxGeometry x="80" y="500" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-39" value="饮食" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="575" width="40" height="20" as="geometry" />
+          <mxGeometry x="80" y="530" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-41" value="喝水" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="610" width="40" height="20" as="geometry" />
+          <mxGeometry x="80" y="565" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="EW2c715vl7r0Vyo-Yu_o-29">
           <mxGeometry relative="1" as="geometry">
