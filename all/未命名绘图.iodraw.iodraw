@@ -99,7 +99,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="30" y="238" />
-              <mxPoint x="30" y="285" />
+              <mxPoint x="30" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -209,7 +209,7 @@
           <mxGeometry x="80" y="305" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-27" value="血脂" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="360" width="40" height="20" as="geometry" />
+          <mxGeometry x="80" y="340" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-37" value="运动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="67.5" y="540" width="40" height="20" as="geometry" />
