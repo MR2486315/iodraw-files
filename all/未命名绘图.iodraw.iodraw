@@ -61,8 +61,8 @@
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-16" value="健康咨询" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="155" y="222.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UjupS6Y3R0U-6fo5p6Z2-20" value="&lt;span style=&quot;font-size:12.0pt;line-height:150%;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;系统管理模块&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="530" y="290" width="80" height="30" as="geometry" />
+        <mxCell id="UjupS6Y3R0U-6fo5p6Z2-20" value="&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;系统管理模块&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="220" width="80" height="30" as="geometry" />
