@@ -136,7 +136,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="EW2c715vl7r0Vyo-Yu_o-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="238" />
+              <mxPoint x="30" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="EW2c715vl7r0Vyo-Yu_o-37">
           <mxGeometry relative="1" as="geometry" />
@@ -144,7 +149,7 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="EW2c715vl7r0Vyo-Yu_o-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EW2c715vl7r0Vyo-Yu_o-33" target="EW2c715vl7r0Vyo-Yu_o-41">
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EW2c715vl7r0Vyo-Yu_o-35" target="EW2c715vl7r0Vyo-Yu_o-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="UjupS6Y3R0U-6fo5p6Z2-16">
@@ -191,9 +196,6 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-27" value="血脂" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="360" width="45" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-35" value="睡眠" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="585" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-37" value="运动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="690" width="35" height="20" as="geometry" />
         </mxCell>
@@ -229,6 +231,15 @@
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-33" value="体温" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EW2c715vl7r0Vyo-Yu_o-33" target="EW2c715vl7r0Vyo-Yu_o-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="490" as="sourcePoint" />
+            <mxPoint x="75" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-35" value="睡眠" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="510" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
