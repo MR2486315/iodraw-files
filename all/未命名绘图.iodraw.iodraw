@@ -228,7 +228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-23" value="医疗医保政策" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="297.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="170" y="580" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
