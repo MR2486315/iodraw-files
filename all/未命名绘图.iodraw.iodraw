@@ -37,8 +37,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-1" target="UjupS6Y3R0U-6fo5p6Z2-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="178" />
+              <mxPoint x="360" y="178" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-1" value="健康管理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="284" y="90" width="130" height="40" as="geometry" />
+          <mxGeometry x="320" y="90" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-13" value="健康科普" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="225" width="80" height="30" as="geometry" />
