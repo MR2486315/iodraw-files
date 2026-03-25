@@ -146,7 +146,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="EW2c715vl7r0Vyo-Yu_o-31">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="238" />
+              <mxPoint x="30" y="445" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-24" value="健康指标" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="220" width="80" height="35" as="geometry" />
@@ -182,7 +187,7 @@
           <mxGeometry x="65" y="360" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-31" value="BMI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="435" width="40" height="20" as="geometry" />
+          <mxGeometry x="110" y="435" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-33" value="体温" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="600" width="40" height="20" as="geometry" />
