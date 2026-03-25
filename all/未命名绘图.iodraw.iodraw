@@ -214,6 +214,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="255" as="sourcePoint" />
             <mxPoint x="75" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="238" />
+              <mxPoint x="30" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-29" value="心率" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
