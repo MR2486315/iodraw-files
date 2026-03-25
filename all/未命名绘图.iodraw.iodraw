@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-16" value="健康咨询" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="220" width="80" height="30" as="geometry" />
+          <mxGeometry x="190" y="220" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-20" value="&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;系统管理&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="220" width="80" height="30" as="geometry" />
