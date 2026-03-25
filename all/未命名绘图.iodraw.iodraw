@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="180" />
-              <mxPoint x="190" y="180" />
+              <mxPoint x="230" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -40,8 +40,8 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-1" target="UjupS6Y3R0U-6fo5p6Z2-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="385" y="178" />
-              <mxPoint x="360" y="178" />
+              <mxPoint x="380" y="180" />
+              <mxPoint x="360" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
