@@ -248,11 +248,11 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="293.75" width="50" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-55" value="个人信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-55" value="个人基本信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="299.38" width="60" height="31.25" as="geometry" />
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="360" width="80" height="35" as="geometry" />
+          <mxGeometry x="480" y="360" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
