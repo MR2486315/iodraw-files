@@ -154,9 +154,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="UjupS6Y3R0U-6fo5p6Z2-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="EW2c715vl7r0Vyo-Yu_o-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
