@@ -84,14 +84,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-16" target="EW2c715vl7r0Vyo-Yu_o-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-16" value="健康咨询" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="220" width="80" height="35" as="geometry" />
         </mxCell>
