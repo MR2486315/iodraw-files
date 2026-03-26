@@ -47,13 +47,8 @@
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-1" value="健康管理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="90" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-13" target="EW2c715vl7r0Vyo-Yu_o-85">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="243" />
-              <mxPoint x="310" y="356" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-13" target="EW2c715vl7r0Vyo-Yu_o-85">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-13" value="健康科普" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="225" width="80" height="35" as="geometry" />
@@ -322,8 +317,14 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-71" value="管理员权限设置" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="333.75" width="70" height="32.5" as="geometry" />
         </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EW2c715vl7r0Vyo-Yu_o-85" target="EW2c715vl7r0Vyo-Yu_o-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="50" height="20" as="geometry" />
+          <mxGeometry x="335" y="285" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="385" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
