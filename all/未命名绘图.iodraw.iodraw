@@ -184,9 +184,6 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-31" target="EW2c715vl7r0Vyo-Yu_o-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-31" target="UjupS6Y3R0U-6fo5p6Z2-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-31" value="健康档案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="225" width="80" height="35" as="geometry" />
         </mxCell>
@@ -250,6 +247,9 @@
         </mxCell>
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-55" value="个人信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="299.38" width="60" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
