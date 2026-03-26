@@ -199,9 +199,7 @@
             <mxPoint x="450" y="430" as="targetPoint" />
             <Array as="points">
               <mxPoint x="450" y="243" />
-              <mxPoint x="450" y="335" />
-              <mxPoint x="440" y="335" />
-              <mxPoint x="440" y="425" />
+              <mxPoint x="450" y="425" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -272,7 +270,7 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-65" value="过敏史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="360" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-67" value="既往病史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
