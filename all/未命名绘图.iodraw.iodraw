@@ -194,6 +194,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-31" value="健康档案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="225" width="80" height="35" as="geometry" />
         </mxCell>
