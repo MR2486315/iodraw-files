@@ -20,7 +20,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjupS6Y3R0U-6fo5p6Z2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-1" target="UjupS6Y3R0U-6fo5p6Z2-24" edge="1">
+        <mxCell id="UjupS6Y3R0U-6fo5p6Z2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-1" target="UjupS6Y3R0U-6fo5p6Z2-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="180" />
