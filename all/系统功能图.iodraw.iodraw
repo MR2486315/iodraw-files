@@ -131,7 +131,7 @@
         <mxCell id="UjupS6Y3R0U-6fo5p6Z2-20" value="&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;系统管理&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="220" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="UjupS6Y3R0U-6fo5p6Z2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="UjupS6Y3R0U-6fo5p6Z2-26" edge="1">
+        <mxCell id="UjupS6Y3R0U-6fo5p6Z2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="UjupS6Y3R0U-6fo5p6Z2-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="30" y="238" />
@@ -139,7 +139,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="EW2c715vl7r0Vyo-Yu_o-25" edge="1">
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;" parent="1" source="UjupS6Y3R0U-6fo5p6Z2-24" target="EW2c715vl7r0Vyo-Yu_o-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="30" y="238" />
