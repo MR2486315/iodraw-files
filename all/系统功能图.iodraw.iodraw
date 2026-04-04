@@ -322,7 +322,7 @@
         <mxCell id="EW2c715vl7r0Vyo-Yu_o-71" value="管理员权限设置" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="333.75" width="70" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="EW2c715vl7r0Vyo-Yu_o-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EW2c715vl7r0Vyo-Yu_o-85" target="EW2c715vl7r0Vyo-Yu_o-97" edge="1">
+        <mxCell id="EW2c715vl7r0Vyo-Yu_o-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;" parent="1" source="EW2c715vl7r0Vyo-Yu_o-85" target="EW2c715vl7r0Vyo-Yu_o-97" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="300" />
